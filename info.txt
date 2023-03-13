@@ -9,6 +9,13 @@ cambio de ruta  del origin
 nuevos cambios a partir de este lugar de trabajo 
 xd 
 
+<<<<<<< HEAD
 
 lunes 13 de marzo 2023
 otro cambios increibles xd 
+=======
+lunes 01 de marzo 2023 
+bienvenido al increible mundo de la programacion
+
+
+>>>>>>> 1a2a888 (probrando las cherry-pick)
