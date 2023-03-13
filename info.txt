@@ -10,12 +10,18 @@ nuevos cambios a partir de este lugar de trabajo
 xd 
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 
 lunes 13 de marzo 2023
 otro cambios increibles xd 
 =======
+=======
+>>>>>>> 1a2a888 (probrando las cherry-pick)
 lunes 01 de marzo 2023 
 bienvenido al increible mundo de la programacion
 
 
+<<<<<<< HEAD
+>>>>>>> 1a2a888 (probrando las cherry-pick)
+=======
 >>>>>>> 1a2a888 (probrando las cherry-pick)
